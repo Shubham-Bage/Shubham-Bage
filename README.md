@@ -12,9 +12,9 @@
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Excel.
 <p align="left">
-✨ You can reach out to me:
+✨ You can reach out to me 📧:
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 shubham0704@yahoo.com
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shubham0704@yahoo.com
 
 <p align="left">
 ✨ With 2.5 years of exp in product data management 👨‍💻, I’m now
