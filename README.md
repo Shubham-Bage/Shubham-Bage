@@ -15,5 +15,7 @@
 ✨ With 2.5 years in product data management 👨‍💻, I’m now transitioning into a data analyst role to leverage my skills in driving data-driven insights & decision-making.
 </p>
 
+<!-- Large GIF on the right -->
+<img src="path/to/your/Data.gif" alt="Your GIF" width="400px" align="right">
 
 </div>
