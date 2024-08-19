@@ -22,7 +22,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;transitioning into a data analyst role to leverage my skills in driving
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data-driven insights decision making.
-  
+
+<!-- Description -->
+<p align="left">
+✨ Language & Tools:
+</p>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="Skills.JPG" alt="Skill" width="200" />
 </p>
 
 
