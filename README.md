@@ -21,9 +21,9 @@
 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m now transitioning into a data analyst role to leverage
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my skills in driving data-driven insights 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;my skills in driving data-driven insights decision 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;decision-making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;making.
   
 </p>
 
