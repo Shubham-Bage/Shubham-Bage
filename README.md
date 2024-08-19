@@ -4,7 +4,7 @@
 
 ## A Data Analyst
 <!-- Large GIF on the right -->
-<img src="Data.gif" alt="Your GIF" width="400px" align="right">
+<img src="Data.gif" alt="Your GIF" width="350px" align="right">
 
 <!-- Description -->
 <p align="left">
