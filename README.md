@@ -2,7 +2,9 @@
 
 # Hi there👋, I'm Shubham Bage
 
-## A Passionate Data Analyst
+## A Data Analyst
+<!-- Large GIF on the right -->
+<img src="Data.gif" alt="Your GIF" width="400px" align="right">
 
 <!-- Description -->
 <p align="left">
@@ -12,10 +14,12 @@
 <br>
 📧 shubham0704@yahoo.com
 <br>
-✨ With 2.5 years in product data management 👨‍💻, I’m now transitioning into a data analyst role to leverage my skills in driving data-driven insights & decision-making.
+✨ With 2.5 years in product data management 👨‍💻, I’m now transitioning into
+  <br> a data analyst role to leverage my skills in driving data-driven insights & decision-making.
+
+  Laguages & Tools :
+  
 </p>
 
-<!-- Large GIF on the right -->
-<img src="path/to/your/Data.gif" alt="Your GIF" width="400px" align="right">
 
 </div>
