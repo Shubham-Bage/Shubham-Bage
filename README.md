@@ -17,10 +17,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 shubham0704@yahoo.com
 
 <p align="left">
-✨ With 2.5 years of exp in product data management 👨‍💻, I’m now transitioning
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;into a data analyst role to leverage my skills in driving data-driven insights 
+✨ With 2.5 years of exp in product data management 👨‍💻,
+<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m now transitioning into a data analyst role to leverage my skills in driving data-driven
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;decision-making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;insights decision-making.
   
 </p>
 
