@@ -19,9 +19,9 @@
 <p align="left">
 ✨ With 2.5 years of exp in product data management 👨‍💻,
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m now transitioning into a data analyst role to leverage my skills in driving data-driven
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I’m now transitioning into a data analyst role to
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;insights decision-making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leverage my skills in driving data-driven insights decision-making.
   
 </p>
 
