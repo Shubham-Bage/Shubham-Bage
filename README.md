@@ -21,9 +21,9 @@
 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;management 👨‍💻, I’m now transitioning into 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a data analyst role to leverage my skills 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a data analyst role to leverage my skills in
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in driving data-driven insights & decision making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;driving data-driven insights & decision making.
 <!-- Description -->
 <p align="left">
 ✨ Language & Tools:
