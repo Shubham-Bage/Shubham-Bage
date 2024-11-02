@@ -8,21 +8,22 @@
 
 <!-- Description -->
 <p align="left">
-✨ I'm an aspiring Data Analyst loaded with Power BI, SQL, Python
+✨ I'm an aspiring Data Analyst loaded with Power
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and Excel.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI, SQL, Python and Excel.
 <p align="left">
 ✨ You can reach out to me 📧:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shubham0704@yahoo.com
 
 <p align="left">
-✨ With 2.5 years of experience in product data management 👨‍💻, I’m
+✨ With 2.5 years of experience in product data
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;now transitioning into a data analyst role to leverage my skills in
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;management 👨‍💻, I’m now transitioning into 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;driving data-driven insights & decision making.
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a data analyst role to leverage my skills 
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in driving data-driven insights & decision making.
 <!-- Description -->
 <p align="left">
 ✨ Language & Tools:
