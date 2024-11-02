@@ -8,9 +8,9 @@
 
 <!-- Description -->
 <p align="left">
-✨ I'm a Data Analyst loaded with Power
+✨ I'm a Data Analyst loaded with Power BI,
   <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI, SQL, Python and Excel.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL, Python and Excel.
 <p align="left">
 ✨ You can reach out to me 📧:
 <br>
