@@ -8,7 +8,7 @@
 
 <!-- Description -->
 <p align="left">
-✨ I'm an aspiring Data Analyst loaded with Power
+✨ I'm a Data Analyst loaded with Power
   <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BI, SQL, Python and Excel.
 <p align="left">
