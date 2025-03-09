@@ -19,11 +19,10 @@
 <p align="left">
 ✨ Holds BTech in Electrical Engineering
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 I’m now transitioning into 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 with a passion for problem-solving and
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a data analyst role to leverage my skills in
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;driving data-driven insights & decision making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data-driven decision-making.
+
 <!-- Description -->
 <p align="left">
 ✨ Language & Tools:
