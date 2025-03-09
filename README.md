@@ -19,9 +19,9 @@
 <p align="left">
 ✨ Holds BTech in Electrical Engineering
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 with a passion for problem-solving and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with a passion for problem-solving and
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data-driven decision-making.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 data-driven decision-making.
 
 <!-- Description -->
 <p align="left">
