@@ -17,9 +17,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;shubham0704@yahoo.com
 
 <p align="left">
-✨ With 2.5 years of experience in product data
+✨ Holds BTech in Electrical Engineering
 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;management 👨‍💻, I’m now transitioning into 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 I’m now transitioning into 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a data analyst role to leverage my skills in
 <br>
